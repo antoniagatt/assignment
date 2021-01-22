@@ -30,6 +30,9 @@ letter-spacing: 0.150em;
 
 }
 
+
+
+
 .navbar div :hover {
 	color: #E99A6B !important;
 }
@@ -46,7 +49,7 @@ letter-spacing: 0.150em;
 
 
 
-/*Scroll down anchor was found from https://jsfiddle.net/solodev/3stm0mnq/*/
+/*Scroll down anchor was found from https://jsfiddle.net/solodev/3stm0mnq/
 
 body {
   overflow: scroll;
@@ -76,7 +79,7 @@ body {
 }
 img, figure {
     max-width: 100%;
-}
+}*/
 
 
 h2{
@@ -117,6 +120,7 @@ h4{
     color: #A39947;
     font-size: 30px;
     letter-spacing: 0.150em;
+    padding-top: 130px;
 }
 
 a{
@@ -125,6 +129,7 @@ a{
   font-size: 2vw;
 	text-decoration: none;
   text-align: center;
+  
 }
 
 a:hover{
