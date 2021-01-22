@@ -1,15 +1,25 @@
+body {
+  background-image: url('pattern20.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+
+
+
+
 h1{
-	font-size: 145px;
-	font-family: gastromond, sans-serif;
+  font-size: 4vw;
+  font-family: gastromond, sans-serif;
 font-style: normal;
 font-weight: 400;
 color: #E99A6B;
 text-align: center;
 letter-spacing: 0.06em;
-box-sizing: border-box;
 
 }
-
 
 
 .navbar a{
@@ -30,12 +40,13 @@ letter-spacing: 0.150em;
 }
 
 
+.container {
+  
+}
 
 
 
-
-
-<!--Scroll down anchor was found from https://jsfiddle.net/solodev/3stm0mnq/-->
+/*Scroll down anchor was found from https://jsfiddle.net/solodev/3stm0mnq/*/
 
 body {
   overflow: scroll;
@@ -74,7 +85,7 @@ h2{
     line-height: 11.5;
     color: #E99A6B;
     letter-spacing: 0.150em;
-    font-size: 70px;
+    font-size: 70px !important;
     cursor: pointer;
 
   }
@@ -95,11 +106,6 @@ h3{
 
 }
 
-p{
-  	font-size: 40px;
-  	padding: 0.5px;
-	margin: 0.5px auto;
-  }
 
 
 
@@ -115,13 +121,19 @@ h4{
 
 a{
 	color: #A39947;
-	font-size: 20px;
+	font-size: 50px;
+  font-size: 2vw;
 	text-decoration: none;
+  text-align: center;
 }
 
 a:hover{
 	color: #FCF4CE;
 }
+
+
+
+
 
 .container-fluid form{
 	background-color: #E4D1AB;

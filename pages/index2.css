@@ -1,0 +1,145 @@
+
+
+
+
+
+
+
+
+
+h1{
+	font-family:"VLNL Donuts"; src: url("//db.onlinewebfonts.com/t/1ff4f3438dd8a794cb009be8e5d0d8ac.eot")!important;
+	letter-spacing: 0.150em;
+	text-align: center;
+	color: #C5B68F;
+	padding :3%
+}
+
+
+
+
+p{
+	font-family: 'Karla', sans-serif;
+	
+	text-align: center;
+	color: #C5B68F;
+}
+
+body{
+	background-color: #489483;
+	text-align: center;
+}
+
+
+
+
+
+
+img{
+float: center;
+max-width: 100%
+height: auto;
+margin: 2%;
+padding: 4%;
+text-align: center;
+}
+
+a{
+	color: #E99A6B;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #FCF4CE;
+}
+
+
+
+
+h4{
+	font-family:"VLNL Donuts"; src: url("//db.onlinewebfonts.com/t/1ff4f3438dd8a794cb009be8e5d0d8ac.eot")!important;
+	letter-spacing: 0.150em;
+	text-align: center;
+	color: #C5B68F;
+
+}
+
+
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+
+.text{
+	font-family: 'Karla', sans-serif;
+	font-size: 35px;
+	font-size: 1vw
+	text-align: center;
+	color: #C5B68F;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

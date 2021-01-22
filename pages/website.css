@@ -1,0 +1,185 @@
+body {
+  background-image: url('pattern20.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+
+
+
+
+h1{
+  font-size: 4vw;
+  font-family: gastromond, sans-serif;
+font-style: normal;
+font-weight: 400;
+color: #E99A6B;
+text-align: center;
+letter-spacing: 0.06em;
+
+}
+
+
+.navbar a{
+    font-family:"VLNL Donuts"; src: url("//db.onlinewebfonts.com/t/1ff4f3438dd8a794cb009be8e5d0d8ac.eot")!important;
+color: #FCF4CE !important;
+font-size: 30px;
+letter-spacing: 0.150em;
+
+}
+
+.navbar div :hover {
+	color: #E99A6B !important;
+}
+
+.navbar li :hover {
+	color: #A39947 !important;
+
+}
+
+
+.container {
+  
+}
+
+
+
+/*Scroll down anchor was found from https://jsfiddle.net/solodev/3stm0mnq/*/
+
+body {
+  overflow: scroll;
+}
+
+.intro-type .container {
+    padding: 107px 0px 102px 0px !important;
+}
+
+.jumbo {
+  margin-top: 20px;
+}
+
+.ct-btn-scroll {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 3%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding-top: 30px;
+    z-index: 9;
+    border-radius: 50%;
+    -webkit-transition: background-color 0.25s ease-in-out;
+    transition: background-color 0.25s ease-in-out;
+}
+img, figure {
+    max-width: 100%;
+}
+
+
+h2{
+    text-align: center;
+    font-family:"VLNL Donuts"; src: url("//db.onlinewebfonts.com/t/1ff4f3438dd8a794cb009be8e5d0d8ac.eot")!important;
+    line-height: 11.5;
+    color: #E99A6B;
+    letter-spacing: 0.150em;
+    font-size: 70px !important;
+    cursor: pointer;
+
+  }
+
+  h2:hover {
+		color: #FCF4CE;
+
+	}
+
+
+
+
+
+h3{
+	text-align: center;
+	font-family:"VLNL Donuts"; src: url("//db.onlinewebfonts.com/t/1ff4f3438dd8a794cb009be8e5d0d8ac.eot")!important;font-family:"VLNL Donuts"; src: url("//db.onlinewebfonts.com/t/1ff4f3438dd8a794cb009be8e5d0d8ac.eot")!important;font-family:"VLNL Donuts"; src: url("//db.onlinewebfonts.com/t/1ff4f3438dd8a794cb009be8e5d0d8ac.eot")!important;
+    color: #A39947;
+
+}
+
+
+
+
+
+h4{
+	line-height: 3;
+	text-align: center;
+	font-family:"VLNL Donuts"; src: url("//db.onlinewebfonts.com/t/1ff4f3438dd8a794cb009be8e5d0d8ac.eot")!important;font-family:"VLNL Donuts"; src: url("//db.onlinewebfonts.com/t/1ff4f3438dd8a794cb009be8e5d0d8ac.eot")!important;font-family:"VLNL Donuts"; src: url("//db.onlinewebfonts.com/t/1ff4f3438dd8a794cb009be8e5d0d8ac.eot")!important;
+    color: #A39947;
+    font-size: 30px;
+    letter-spacing: 0.150em;
+}
+
+a{
+	color: #A39947;
+	font-size: 50px;
+  font-size: 2vw;
+	text-decoration: none;
+  text-align: center;
+}
+
+a:hover{
+	color: #FCF4CE;
+}
+
+
+
+
+
+.container-fluid form{
+	background-color: #E4D1AB;
+	padding: 20px;
+	margin: 20px auto;
+	border-radius: 10px;
+
+}
+
+.container-fluid input{
+	border-radius: 10px;
+	border: 1px solid #FFFFFF;
+	margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+
+}
+
+
+label{
+  	color: #91843A;
+  }
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #FFFFFF; 
+  border-radius: 10px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #A39947;
+  color: #BFB57C;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  color: #EAE5CC;
+}
+
+
