@@ -1,0 +1,39 @@
+h1{
+	font-family:"VLNL Donuts"; src: url("//db.onlinewebfonts.com/t/1ff4f3438dd8a794cb009be8e5d0d8ac.eot")!important;
+	letter-spacing: 0.150em;
+	text-align: center;
+	color: #C5B68F;
+	padding :3%
+}
+
+
+body{
+	background-color: #489483;
+	text-align: center;
+}
+
+
+p{
+	font-family: 'Karla', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	color: #C5B68F;
+	
+	
+}
+
+div{
+	font-family: 'Karla', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	color: #C5B68F;
+	margin-top: 20px;
+  margin-bottom: 100px;
+  margin-right: 30px;
+  margin-left: 30px;
+  
+}
+
+
+
+
